@@ -165,4 +165,14 @@
 }
 .search-row{
 	display: flex;
+	padding: 15px 0px 0px 45px;
+}
+.search-label{
+	position: relative;
+}
+.search-label i{
+	position: absolute;
+    right: 10px;
+    top: 10px;
+    color: #d5d5d5;
 }
